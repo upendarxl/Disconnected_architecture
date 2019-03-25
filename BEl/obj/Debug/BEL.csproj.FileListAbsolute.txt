@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\n_tear disconn\BEl\bin\Debug\BEl.dll
+C:\Users\user\source\repos\n_tear disconn\BEl\bin\Debug\BEl.pdb
+C:\Users\user\source\repos\n_tear disconn\BEl\obj\Debug\BEL.csprojAssemblyReference.cache
+C:\Users\user\source\repos\n_tear disconn\BEl\obj\Debug\BEL.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\n_tear disconn\BEl\obj\Debug\BEl.dll
+C:\Users\user\source\repos\n_tear disconn\BEl\obj\Debug\BEl.pdb

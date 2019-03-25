@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\n_tear disconn\BAL\bin\Debug\BAL.dll
+C:\Users\user\source\repos\n_tear disconn\BAL\bin\Debug\BAL.pdb
+C:\Users\user\source\repos\n_tear disconn\BAL\bin\Debug\BEl.dll
+C:\Users\user\source\repos\n_tear disconn\BAL\bin\Debug\n_tear disconn.dll
+C:\Users\user\source\repos\n_tear disconn\BAL\bin\Debug\BEl.pdb
+C:\Users\user\source\repos\n_tear disconn\BAL\bin\Debug\n_tear disconn.pdb
+C:\Users\user\source\repos\n_tear disconn\BAL\bin\Debug\n_tear disconn.dll.config
+C:\Users\user\source\repos\n_tear disconn\BAL\obj\Debug\BAL.csprojAssemblyReference.cache
+C:\Users\user\source\repos\n_tear disconn\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\n_tear disconn\BAL\obj\Debug\BAL.csproj.CopyComplete
+C:\Users\user\source\repos\n_tear disconn\BAL\obj\Debug\BAL.dll
+C:\Users\user\source\repos\n_tear disconn\BAL\obj\Debug\BAL.pdb

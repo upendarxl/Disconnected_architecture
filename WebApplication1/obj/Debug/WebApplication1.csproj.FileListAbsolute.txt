@@ -1,0 +1,2 @@
+C:\Users\user\source\repos\n_tear disconn\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+C:\Users\user\source\repos\n_tear disconn\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
